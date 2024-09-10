@@ -36,7 +36,24 @@ Los administradores pueden gestionar estos reportes, atendiendo las quejas por d
 
 ## 🌐 Despliegue
 
-La aplicación **InLima** está alojada en [Vercel](https://vercel.com), proporcionando un rendimiento ágil y una escalabilidad adaptable. Puedes acceder a la aplicación a través del siguiente enlace:
+**[InLima - Aplicación de Gestión de Incidencias](https://inlima.online)** fue alojada en **Vercel** (Frontend) y **Azure** (Backend).
+
+> *Actualmente nuestros servidores del backend no se encuentran encendidos por falta de créditos.* 😅
 
 
-**[InLima - Aplicación de Gestión de Incidencias](https://inlima.online)**
+## 📸 Capturas de Pantalla
+
+> Pantalla de Login
+![Pantalla de Login](./public/examples/login.PNG)
+
+> Creación de Quejas
+![Creación de Quejas](./public/examples/queja_creacion.PNG)
+
+> Detalle de Quejas
+![Detalle de Quejas](./public/examples/queja_detalle.PNG)
+
+> Historial de Incidencias
+![Historial de Incidencias](./public/examples/historial.PNG)
+
+> Gestión de Quejas por el Administrador
+![Gestión de quejas - Admin](./public/examples/admin_queja.PNG)
